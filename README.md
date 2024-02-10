@@ -1,1 +1,1 @@
-# QuizMaster
+A Quiz Application
