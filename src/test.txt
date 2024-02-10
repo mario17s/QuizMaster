@@ -1,0 +1,6 @@
+83;Which number is the smallest?;457;643;916;457;medium
+33;Which number is the smallest?;927;117;939;117;medium
+95;Which number is the smallest?;648;102;19;19;medium
+14;Which number is the largest;682;341;934;934;medium
+75;Which number is the largest;312;510;684;684;medium
+24;Which number is the smallest?;376;524;136;136;medium

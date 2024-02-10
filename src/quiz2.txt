@@ -1,0 +1,10 @@
+35;Which number is the largest;636;627;461;636;easy
+29;Which number is the largest;258;283;957;957;easy
+9;Which number is the smallest?;489;491;557;489;easy
+53;Which number is the largest;928;159;564;928;easy
+79;Which number is the smallest?;770;353;165;165;easy
+45;Which number is the largest;496;652;922;922;easy
+39;Which number is the smallest?;204;90;459;90;easy
+98;Which number is the largest;688;837;521;837;easy
+48;Which number is the smallest?;197;623;509;197;easy
+23;Which number is the smallest?;90;717;747;90;easy

@@ -1,0 +1,5 @@
+62;Which number is the largest;825;34;801;825;medium
+83;Which number is the largest;985;55;921;985;medium
+42;Which number is the smallest?;581;637;20;20;medium
+52;Which number is the largest;179;163;240;240;medium
+54;Which number is the smallest?;278;515;917;278;medium
